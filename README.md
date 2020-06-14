@@ -8,10 +8,10 @@
 
 - Install required `node_modules`.
 - Install `ffmpeg`.
-- Add your prefix.
-- Add your token.
-- Add your embed color.
-- Add your bot name.
-- Add your inviteURL.
-- Add your streamURL.
+- Add your `prefix`.
+- Add your `token`.
+- Add your `embedColor`.
+- Add your `botName`.
+- Add your `inviteURL`.
+- Add your `streamURL`.
 - Run `start.bat`.
