@@ -1,8 +1,8 @@
 {
-  "prefix": "!",
-  "token": "Njg0NDY2MzUyOTM2ODQ1MzM1.XuJMmA.gCtRZAOBtNQOMNeRwvaSJM19GNg",
-  "embedColor": "#ff0008",
-  "botName": "Hitradio",
-  "inviteURL": "invite_link",
-  "streamURL": "https://hitradio-maroc.ice.infomaniak.ch//hitradio-maroc-128.mp3"
+  "prefix": "your_prefix",
+  "token": "your_token",
+  "embedColor": "your_embed_color",
+  "botName": "your_bot_name",
+  "inviteURL": "your_invite_url",
+  "streamURL": "your_steam_radio_url"
 }
