@@ -1,4 +1,8 @@
-<img src="https://cdn.pixabay.com/photo/2018/08/16/11/59/radio-3610287_960_720.png">
+<img
+    src="https://cdn.pixabay.com/photo/2018/08/16/11/59/radio-3610287_960_720.png"
+    width="500px"
+    height="500px"
+>
 
 # Radio bot
 
