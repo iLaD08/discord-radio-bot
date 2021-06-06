@@ -1,8 +1,6 @@
-<img src="https://cdn.pixabay.com/photo/2018/08/16/11/59/radio-3610287_960_720.png">
-
 # Radio bot
 
-> Created using `discord.js`
+> Created using `discord.js` and `FFMPEG`.
 
 **How to use ?**
 
@@ -15,3 +13,5 @@
 - Add your `inviteURL`.
 - Add your `streamURL`.
 - Run `start.bat`.
+
+<img src="https://cdn.pixabay.com/photo/2018/08/16/11/59/radio-3610287_960_720.png">
